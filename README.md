@@ -6,7 +6,7 @@ i update my personal projects every once in a blue moon (i don't actually like p
 if my bar looks green that's because i'm doing FRC
 
 ### Links
-<a href="https://www.youtube.com/@amb3015"><img src="assets/youtube.1024x720.png" height="32"></a>
+<a href="https://www.youtube.com/@amb3015"><img src="assets/youtube.1024x1024.png" height="32"></a>
 <a href="https://twitter.com/Amber93000352"><img src="assets/twitter.1024x1024.png" height="32" width="32"></a>
 <a href="https://discord.com/users/293880606650269696"><img src="assets/discord-icon-2048x2048-o5mluhz2.png" height="32" width="32"></a>
 <!--
