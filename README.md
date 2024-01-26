@@ -1,5 +1,5 @@
 # welcome to hell
-
+amber (she/her)
 
 i update my personal projects every once in a blue moon (i don't actually like programming that much)
 
