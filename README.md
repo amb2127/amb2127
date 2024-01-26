@@ -1,5 +1,10 @@
-### Hi there 👋
+# welcome to hell
 
+i update my personal projects every once in a blue moon (i don't actually like programming that much)
+
+if my bar looks green that's because i'm doing FRC
+
+### Links
 <!--
 **amb2127/amb2127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
