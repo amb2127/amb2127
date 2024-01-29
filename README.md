@@ -1,6 +1,8 @@
 # welcome to hell
 amber (she/her)
 
+2<sup>127</sup> - 1 is my favorite prime number
+
 i update my personal projects every once in a blue moon (i don't actually like programming that much)
 
 if my bar looks green that's because i'm doing FRC
