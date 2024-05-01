@@ -1,11 +1,7 @@
 # welcome to hell
-amber (she/her)
-
 2<sup>127</sup> - 1 is my favorite prime number
 
 i update my personal projects every once in a blue moon
-
-FRC programmer
 
 ### Links
 <a href="https://www.youtube.com/@amb3015"><img src="assets/youtube.1024x1024.png" height="32"></a>
